@@ -1,0 +1,5 @@
+rq
+redis
+flask
+requests
+sqlalchemy
